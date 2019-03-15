@@ -1,0 +1,4 @@
+﻿This is a file to Mark how to set up linqpad on any windows 10 device using visual studio.
+
+1. Create new dotnet standard peroject in visual studio. (I have created dotnet standard 2.o project on time of creation)
+2. 
