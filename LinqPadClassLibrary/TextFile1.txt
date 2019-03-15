@@ -2,3 +2,4 @@
 
 1. Create new dotnet standard peroject in visual studio. (I have created dotnet standard 2.o project on time of creation)
 2. Scaffold-DbContext "Data Source=DESKTOP-PPL5CRC\SQLEXPRESS;Initial Catalog=Northwind;Integrated Security=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
+https://entityframeworkcore.com/knowledge-base/48561573/how-to-use-linqpad-with-entity-framework-core-
